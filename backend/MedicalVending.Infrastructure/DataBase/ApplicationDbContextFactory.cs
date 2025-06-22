@@ -14,7 +14,7 @@ namespace MedicalVending.Infrastructure.DataBase
 
             if (string.IsNullOrWhiteSpace(connectionString))
             {
-                connectionString = "Server=(localdb)\\mssqllocaldb;Database=MedicalVending;Trusted_Connection=True;MultipleActiveResultSets=true";
+                connectionString = "your_Conection_String";
             }
 
             if (string.IsNullOrWhiteSpace(connectionString) && File.Exists("appsettings.json"))

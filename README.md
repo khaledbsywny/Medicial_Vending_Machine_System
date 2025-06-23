@@ -291,16 +291,10 @@ This project is created for educational purposes as a graduation project. All ri
 
 ## 👨‍🎓 About the Developer
 
-**Student Name**: [Your Name]  
-**University**: [Your University]  
-**Department**: [Your Department]  
-**Graduation Year**: 2024
-
-### Contact Information
-- **Email**: [your.email@university.edu]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
+**Student Name**: khaled Ahmed soliman 
+**University**: Must University 
+**Department**: Computer Science 
+**Graduation Year**: 2025
 ---
 
 **Note**: This project demonstrates advanced software engineering concepts including Clean Architecture, IoT integration, cloud services, and modern web development practices. It serves as a comprehensive example of building scalable, secure, and maintainable software systems. 
